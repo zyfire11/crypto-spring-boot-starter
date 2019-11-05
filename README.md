@@ -1,1 +1,2 @@
 # crypto-spring-boot-starter
+通过spring自定义注解动态控制接口数据的加解密，可以直接打成jar引入到项目中实现项目接口数据加解密的安全性
