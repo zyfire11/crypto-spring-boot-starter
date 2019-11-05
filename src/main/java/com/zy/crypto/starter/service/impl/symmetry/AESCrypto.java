@@ -17,7 +17,7 @@ import java.security.SecureRandom;
 public class AESCrypto implements Crypto {
   private KeyGenerator keygen;
 
-  private String seed = "aegis";
+  private String seed = "zhouyi";
 
   public AESCrypto(String seed){
     this.seed = seed;
